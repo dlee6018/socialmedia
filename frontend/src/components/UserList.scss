@@ -1,0 +1,20 @@
+.user-list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  .user {
+    width: 14rem;
+    height: 14rem;
+    border: 3px solid black;
+    text-align: center;
+    margin-top: 1rem;
+    color: #ffffff;
+    background: #000000;
+
+    img {
+      width: 10rem;
+      height: 7rem;
+      border-radius: 80%;
+      overflow: hidden;
+    }
+  }
+}

@@ -15,7 +15,8 @@ const Users = [
     id: 3,
     name: 'Terry Zhang',
     age: '19',
-    image: './images/chineseflag.png',
+    image:
+      'https://folkency.nfm.go.kr/upload/img/20190305/20190305123024_t_.jpg',
   },
   {
     id: 4,
