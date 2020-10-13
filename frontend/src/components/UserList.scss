@@ -1,6 +1,8 @@
 .user-list {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
+  max-width: 80%;
+  margin: auto;
   .user {
     width: 14rem;
     height: 14rem;
